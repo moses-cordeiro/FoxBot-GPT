@@ -6,7 +6,7 @@ Basically, the goal of this is to create a discord bot that interacts with/in di
 
 ## Table of Contents
 
-- [Gecko!](#gecko)
+- [FoxBot-GPT](#FoxBot-GPT)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
     - [Create virtual environment](#create-virtual-environment)
