@@ -1,6 +1,8 @@
-# Gecko!
+# FoxBot-GPT
 
-Gecko is a bot used on the timewarp academy server update user roles automagically!
+A (bad) idea I had a few years ago, where the building blocks (RAG with vectorDBs, AI LLM, coding skills) are finally at a stage where I can pursue creating it.
+
+Basically, the goal of this is to create a discord bot that interacts with/in discord servers as if it were a normal person. This means it can learn to like, detest, and will grow to prefer servers and users more than others.
 
 ## Table of Contents
 
